@@ -1,0 +1,6 @@
+C:\Users\Amr\documents\visual studio 2013\Projects\KnockKnockTest\KnockKnockServiceTest\bin\Debug\KnockKnockServiceTest.dll
+C:\Users\Amr\documents\visual studio 2013\Projects\KnockKnockTest\KnockKnockServiceTest\bin\Debug\KnockKnockServiceTest.pdb
+C:\Users\Amr\documents\visual studio 2013\Projects\KnockKnockTest\KnockKnockServiceTest\obj\Debug\KnockKnockServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\Amr\documents\visual studio 2013\Projects\KnockKnockTest\KnockKnockServiceTest\obj\Debug\KnockKnockServiceTest.dll
+C:\Users\Amr\documents\visual studio 2013\Projects\KnockKnockTest\KnockKnockServiceTest\obj\Debug\KnockKnockServiceTest.pdb
+C:\Users\Amr\documents\visual studio 2013\Projects\KnockKnockTest\KnockKnockServiceTest\bin\Debug\KnockKnockServiceTest.dll.config

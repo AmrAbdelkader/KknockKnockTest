@@ -1,0 +1,5 @@
+C:\Users\Amr\documents\visual studio 2013\Projects\KnockKnockTest\KnockKnockService\bin\KnockKnockService.dll.config
+C:\Users\Amr\documents\visual studio 2013\Projects\KnockKnockTest\KnockKnockService\bin\KnockKnockService.dll
+C:\Users\Amr\documents\visual studio 2013\Projects\KnockKnockTest\KnockKnockService\bin\KnockKnockService.pdb
+C:\Users\Amr\documents\visual studio 2013\Projects\KnockKnockTest\KnockKnockService\obj\Debug\KnockKnockService.dll
+C:\Users\Amr\documents\visual studio 2013\Projects\KnockKnockTest\KnockKnockService\obj\Debug\KnockKnockService.pdb
